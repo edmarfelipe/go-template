@@ -14,5 +14,5 @@ go install golang.org/x/tools/cmd/gonew@latest
 ### Create a new project
 
 ```shell
-gonew githuh.com/edmarfelipe/go-template example.com/myserver
+gonew github.com/edmarfelipe/go-template example.com/myserver
 ```
